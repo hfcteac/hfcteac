@@ -70,20 +70,6 @@ Email 3 (Occasionally Used): 120213102094@stu.ustl.edu.cn
 
 Email 4 (Occasionally Used): hafeizhou999@gmail.com
 
-打过一年的Proteus仿真设计竞赛：
-![image](https://github.com/hfcteac/hfcteac/blob/main/315b1aec1c16a0efcd25a350969d89ba.jpg)
-
-曾经有一个很好的伙伴，他现在不知所踪，也在等他回来
-![image](https://github.com/hfcteac/hfcteac/blob/main/6521c5cf08333c32.jpg)
-
-
-
-
-
-
-
-
-
 <!--
 **hfcteac/hfcteac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
