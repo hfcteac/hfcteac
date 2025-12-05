@@ -4,12 +4,12 @@
 笔名/别名：周哈飞  
 目前职位：嵌入式工程师 
  
-熟练keil和c语言的编程。    
+熟练keil和c语言的编程，同时会stm32的标准库和hal库编写。    
 目前已掌握Python编程的能力，并且会使用树莓派   
 精通Tia Portal和step7编写plc程序、hmi、以及西门子G120、v90变频器伺服控制器的使用。   
 学习使用过几乎全部西门子运控系列产品。对于三菱系列plc与MCGS触摸屏也有接触。      
 掌握基本stm32、stc51系列单片机和arduino的使用，精通proteus仿真的绘制与调试。   
-接触过国产GD32和CH32编程，浅学timsp系列芯片   
+接触过国产GD32和CH32编程，浅学timspm0系列芯片   
 会搭建电气控制柜，构建电气控制线路，以及电气控制图的绘制。掌握部分物联网开发、ftp服务器搭建等能力   
 会使用嘉立创EDA和AD软件，目前正在学习Auto CAD等    
 会独自维修电脑，组装电脑，安装打印机和配置驱动，对于系统问题也会解决  
@@ -27,7 +27,55 @@ QQ：3024026153
 邮箱3(偶尔)：120213102094@stu.ustl.edu.cn    
 邮箱4(偶尔)：hafeizhou999@gmail.com   
 
+
+
+## A cheerful young boy from Shenyang, Liaoning, who loves computers and mobile phones, possessing an enigmatic personality and unparalleled perseverance.
+
+Name: Song Nan
+
+English Name: Nan Song (/ˌnæn ˈsɔːŋ/)
+
+Pen Name/Alias: Zhou Hafei
+
+Current Position: Embedded Engineer
+
+Proficient in Keil and C programming languages, and also skilled in writing STM32 standard and HAL libraries.
+
+Currently proficient in Python programming and using Raspberry Pi.
+
+Proficient in using Tia Portal and STEP7 to write PLC programs, HMI, and Siemens G120 and V90 frequency converter servo controllers.
+
+Has studied and used almost all Siemens motion control products. Also has experience with Mitsubishi PLCs and MCGS touchscreens.
+
+Masters basic STM32, STC51 series microcontrollers and Arduino usage, and is proficient in Proteus simulation drawing and debugging.
+
+I have some experience with programming domestic GD32 and CH32 chips, and have a basic understanding of TimsPM0 series chips. I can build electrical control cabinets, construct electrical control circuits, and draw electrical control diagrams. Proficient in some IoT development and FTP server setup.
+Familiar with JLCPCB EDA and AD software; currently learning AutoCAD.
+Able to independently repair and assemble computers, install printers and configure drivers; also able to troubleshoot system problems.
+
+Graduated from: Liaoning University of Science and Technology, Bachelor's degree.
+Served as Deputy Director of the Supervision Department and Director of the Network Department in the Electronics Association of Liaoning University of Science and Technology, responsible for server maintenance and setup, printer and scanner repair and maintenance, and internal circuit inspection and maintenance.
+
+No other hobbies. Sometimes enjoys playing transportation games such as *Cities: Skylines* and *Crazy Transport*, and puzzle games such as *Thief Simulator* and *Bridge Simulator*. Also plays *Genshin Impact*, *Honkai Impact 3rd*, and *Zero Zone*. Also plays *Peacekeeper Elite* occasionally.
+
+Genshin Impact UID: 226443694
+
+Bilibili: https://space.bilibili.com/1220660500?spm_id_from=333.1007.0.0
+
+QQ: 3024026153 Email 1 (Frequently Used): song1234588@163.com
+
+Email 2 (Frequently Used): chfkjy999@163.com
+
+Email 3 (Occasionally Used): 120213102094@stu.ustl.edu.cn
+
+Email 4 (Occasionally Used): hafeizhou999@gmail.com
+
 打过一年的Proteus仿真设计竞赛：
+![image](https://github.com/hfcteac/hfcteac/blob/main/315b1aec1c16a0efcd25a350969d89ba.jpg)
+
+曾经有一个很好的伙伴，他现在不知所踪，也在等他回来
+![image](https://github.com/hfcteac/hfcteac/blob/main/6521c5cf08333c32.jpg)
+
 
 
 
