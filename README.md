@@ -3,7 +3,8 @@
 英文名：Nan Song (/ˌnæn ˈsɔːŋ/)  
 笔名/别名：周哈飞  
 目前职位：嵌入式工程师 
- 
+<details>
+<summary>点击展开查看更多</summary> 
 熟练keil和c语言的编程，同时会stm32的标准库和hal库编写。    
 目前已掌握Python编程的能力，并且会使用树莓派   
 精通Tia Portal和step7编写plc程序、hmi、以及西门子G120、v90变频器伺服控制器的使用。   
@@ -69,7 +70,7 @@ Email 2 (Frequently Used): chfkjy999@163.com
 Email 3 (Occasionally Used): 120213102094@stu.ustl.edu.cn
 
 Email 4 (Occasionally Used): hafeizhou999@gmail.com
-
+</details>
 <!--
 **hfcteac/hfcteac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
