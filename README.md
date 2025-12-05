@@ -70,6 +70,14 @@ Email 2 (Frequently Used): chfkjy999@163.com
 Email 3 (Occasionally Used): 120213102094@stu.ustl.edu.cn
 
 Email 4 (Occasionally Used): hafeizhou999@gmail.com
+
+2023proteus仿真设计大赛证书
+![image](https://github.com/hfcteac/hfcteac/blob/main/315b1aec1c16a0efcd25a350969d89ba.jpg)
+
+
+一个非常好的伙伴，现在不知所踪，期待他回来
+![image](https://github.com/hfcteac/hfcteac/blob/main/6521c5cf08333c32.jpg)
+
 </details>
 <!--
 **hfcteac/hfcteac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
