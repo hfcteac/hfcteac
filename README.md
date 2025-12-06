@@ -8,13 +8,11 @@
 焊千点，连万线，测百端。不应有憾，软硬通贯古难全。人有专精领域，我擅跨界交响，星铁共翩帆。但愿云长久，万物互联欢。   
 #### 💻 编程语言
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 #### 🏭 工业自动化
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=siemens&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=flat-square&logo=siemens&logoColor=white)
-![STEP7](https://img.shields.io/badge/STEP7-009999?style=flat-square&logo=siemens&logoColor=white)
 ![Mitsubishi](https://img.shields.io/badge/三菱PLC-CC0000?style=flat-square&logoColor=white)
 ![G120](https://img.shields.io/badge/G120变频器-009999?style=flat-square&logoColor=white)
 ![V90](https://img.shields.io/badge/V90伺服-009999?style=flat-square&logoColor=white)
@@ -39,7 +37,6 @@
 ![MCGS](https://img.shields.io/badge/MCGS触摸屏-0099CC?style=flat-square&logoColor=white)
 ![WinCC](https://img.shields.io/badge/WinCC-009999?style=flat-square&logoColor=white)
 ### 🎛️ 工业通信协议
-![MCGS](https://img.shields.io/badge/MCGS-FF6600?style=flat-square&logoColor=white)
 ![Modbus RTU](https://img.shields.io/badge/Modbus_RTU-003366?style=flat-square&logoColor=white)
 ![Modbus TCP](https://img.shields.io/badge/Modbus_TCP-0066CC?style=flat-square&logoColor=white)
 #### ☁️ 服务器/物联网
