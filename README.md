@@ -45,12 +45,10 @@
 #### ☁️ 服务器/物联网
 ![FTP](https://img.shields.io/badge/FTP服务器-FF9900?style=flat-square&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
 #### 💻 计算机技术
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![硬件维修](https://img.shields.io/badge/电脑维修组装-333333?style=flat-square&logoColor=white)
-![打印机](https://img.shields.io/badge/打印机配置-666666?style=flat-square&logoColor=white)
-### Contact
+### 联系方式
 
 <p>
   <a href="https://space.bilibili.com/1220660500?spm_id_from=333.1007.0.0">
