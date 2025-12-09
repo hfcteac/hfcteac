@@ -39,6 +39,8 @@
 ### 🎛️ 工业通信协议
 ![Modbus RTU](https://img.shields.io/badge/Modbus_RTU-003366?style=flat-square&logoColor=white)
 ![Modbus TCP](https://img.shields.io/badge/Modbus_TCP-0066CC?style=flat-square&logoColor=white)
+![PROFIBUS-DP](https://img.shields.io/badge/PROFIBUS_DP-009999?style=flat-square&logo=siemens&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-CC6600?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0NDNjYwMCIvPgo8cGF0aCBkPSJNNyA4SDE3VjE2SDdWOEoiIGZpbGw9IndoaXRlIi8+CjxjaXJjbGUgY3g9IjEwIiBjeT0iMTIiIHI9IjEuNSIgZmlsbD0iIzAwMDAwMCIvPgo8Y2lyY2xlIGN4PSIxNCIgY3k9IjEyIiByPSIxLjUiIGZpbGw9IiMwMDAwMDAiLz4KPC9zdmc+&logoColor=white)
 #### ☁️ 服务器/物联网
 ![FTP](https://img.shields.io/badge/FTP服务器-FF9900?style=flat-square&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white)
