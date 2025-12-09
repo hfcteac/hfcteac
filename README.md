@@ -1,4 +1,4 @@
-## 一个来自辽宁沈阳的，热爱电脑和程序的快乐小男孩，有着别人捉摸不透的性格   
+## 一个感觉啥都会又啥都不会，唯独对火车感兴趣的火车迷
 姓名：宋楠  
 英文名：Nan Song (/ˌnæn ˈsɔːŋ/)  
 笔名/别名：周哈飞  
@@ -21,6 +21,7 @@
 ![STC51](https://img.shields.io/badge/STC51-003366?style=flat-square&logoColor=white)
 ![GD32](https://img.shields.io/badge/GD32-FF6600?style=flat-square&logoColor=white)
 ![CH32](https://img.shields.io/badge/CH32-0099CC?style=flat-square&logoColor=white)
+![HiSilicon](https://img.shields.io/badge/海思_HiSilicon-FF0000?style=flat-square&logo=huawei&logoColor=white)
 #### 🎛️ 开发工具
 ![Keil MDK](https://img.shields.io/badge/Keil_MDK-007ACC?style=flat-square&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-00A4EF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDIyQzE3LjUyMiAyMiAyMiAxNy41MjIgMjIgMTJDMjIgNi40Nzc1IDE3LjUyMiAyIDEyIDJDNi40Nzc1IDIgMiA2LjQ3NzUgMiAxMkMyIDE3LjUyMiA2LjQ3NzUgMjIgMTIgMjJaIiBmaWxsPSIjMDBBNEVGIi8+CjxwYXRoIGQ9Ik0xMi40OTYxIDE2LjQ0MzhDMTEuMjg5MSAxNi40NDM4IDEwLjYyODQgMTUuODc0IDEwLjUxNDYgMTUuMDQ4OEg4LjQ1NDFDOC42MDc0IDE2LjgyNjMgMTAuMjIyNyAxOCAxMi40OTYxIDE4QzE0LjY2ODcgMTggMTYuMjk3OSAxNi45Njc4IDE2LjI5NzkgMTUuMTUyNEMxNi4yOTc5IDEzLjQ1NzggMTQuOTYxOSAxMi44NzI2IDEzLjA2MDkgMTIuNDE5TDEyLjA5MzUgMTIuMTc3N0MxMC45NDc4IDExLjg4NzcgMTAuMjk2OSAxMS4zODc3IDEwLjI5NjkgMTAuNDQ5MkMxMC4yOTY5IDkuMzc0NiAxMS4yNjQyIDguNTkzOCAxMi42NjY3IDguNTkzOEMxMy45Mzc1IDguNTkzOCAxNC43MzkzIDkuMjA0NiAxNC45MDQzIDEwLjA4OTlIMTYuOTI0M0MxNi43NTkzIDguMzA2MiAxNS4xODk5IDcgMTIuNjY2NyA3QzEwLjI4OTUgNyA4LjY1NjI1IDguMjAyMyA4LjY1NjI1IDkuOTk0NkM4LjY1NjI1IDExLjYwNDcgOS45NjMzMyAxMi4yMzI0IDExLjc2OTEgMTIuNjY2N0wxMi43Nzc0IDEyLjkyMkMxMy45NTg1IDEzLjIxMiAxNC42ODI0IDEzLjcyNTYgMTQuNjgyNCAxNC42NDY1QzE0LjY4MjQgMTUuNzcyNyAxMy42Nzc4IDE2LjQ0MzggMTIuNDk2MSAxNi40NDM4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
@@ -41,6 +42,7 @@
 #### ☁️ 服务器/物联网
 ![FTP](https://img.shields.io/badge/FTP服务器-FF9900?style=flat-square&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white)
+![HarmonyOS](https://img.shields.io/badge/鸿蒙_HarmonyOS-000000?style=flat-square&logo=harmonyos&logoColor=white)
 #### 💻 计算机技术
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![硬件维修](https://img.shields.io/badge/电脑维修组装-333333?style=flat-square&logoColor=white)
