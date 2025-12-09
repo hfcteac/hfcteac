@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="哔哩哔哩"/>
   </a>
   <img src="https://img.shields.io/badge/QQ-3024026153-%2312B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ: 3024026153"/>
+      <img src="https://img.shields.io/badge/原神-UID:226443694-FF9900?style=flat-square&logo=genshinimpact&logoColor=white" alt="原神 UID: 226443694"/>
   </a>
 </p>
 
