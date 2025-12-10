@@ -103,7 +103,7 @@ Able to independently repair and assemble computers, install printers and config
 Graduated from: Liaoning University of Science and Technology, Bachelor's degree.    
 Served as Deputy Director of the Supervision Department and Director of the Network Department in the Electronics Association of Liaoning University of Science and Technology, responsible for server maintenance and setup, printer and scanner repair and maintenance, and internal circuit inspection and maintenance.    
 
-No other hobbies.  Sometimes I enjoy playing transportation games like "Transport Frenzy," and I also like puzzle games like "Thief Simulator" and "Poly Bridge 2." I also play map-running games like "Genshin Impact," "Honkai Impact 3rd," "Zone Zero," and "Sky: Children of the Light." I'm a long-time Minecraft player and a building fanatic, and I also play "Game for Peace" occasionally.  
+No other hobbies.  Sometimes I enjoy playing transportation games like "Transport Frenzy," and I also like puzzle games like "Thief Simulator" and "Poly Bridge 2." I also play map-running games like "Genshin Impact," "Honkai: Star Rail," "Zenless Zone Zero," and "Sky: Children of the Light." I'm a long-time Minecraft player and a building fanatic, and I also play "Game for Peace" occasionally.  
 
 Genshin Impact UID: 226443694   
 
