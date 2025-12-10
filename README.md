@@ -60,7 +60,10 @@
 </p>
 
 <details>
-<summary>点击展开查看更多</summary> 
+<summary>点击展开查看更多</summary>  
+
+
+
 熟练keil和c语言的编程，同时会stm32的标准库和hal库编写。    
 目前已掌握Python编程的能力，并且会使用树莓派   
 精通Tia Portal和step7编写plc程序、hmi、以及西门子G120、v90变频器伺服控制器的使用。   
