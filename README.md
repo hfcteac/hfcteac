@@ -10,6 +10,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 #### 🏭 工业自动化
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=siemens&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=flat-square&logo=siemens&logoColor=white)
