@@ -30,6 +30,7 @@
 #### 🖥️ 嵌入式平台
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![BearPi](https://img.shields.io/badge/小熊派-HarmonyOS-FF0000?style=flat-square&logo=huawei&logoColor=white)
 #### 🎨 EDA设计
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logoColor=white)
 ![立创EDA](https://img.shields.io/badge/立创EDA-00B0F0?style=flat-square&logoColor=white)
@@ -45,7 +46,6 @@
 #### ☁️ 服务器/物联网
 ![FTP](https://img.shields.io/badge/FTP服务器-FF9900?style=flat-square&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white)
-![HarmonyOS](https://img.shields.io/badge/鸿蒙_HarmonyOS-000000?style=flat-square&logo=harmonyos&logoColor=white)
 #### 💻 计算机技术
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![硬件维修](https://img.shields.io/badge/电脑维修组装-333333?style=flat-square&logoColor=white)
